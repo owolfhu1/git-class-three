@@ -1,4 +1,4 @@
 # git-class-three
-hwhohwd
-hwwghwi
-hwhohw
+one
+two
+three
