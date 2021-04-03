@@ -19,8 +19,7 @@ six
 aksdajdsadadgit gt
 
 this is new code
-beritan was here 
-asjkdasdasd
+beritan wasss hereeeee
 
 nine 
 ten
