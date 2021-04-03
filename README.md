@@ -10,17 +10,9 @@ three
 
 brand new code
 beritan came here
-
 tennnn
 eleven
 twenty
-
-this is new code
-beritan wasss hereeeee
-i wanted to added something here
-again
-and again
-
 nine 
 ten
 
@@ -28,5 +20,6 @@ seven
 eight
 nine 
 ten
+3.5
 
-added something
+
