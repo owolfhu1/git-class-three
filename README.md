@@ -15,12 +15,10 @@ Six
  Seven 
 Eight 
 Nine 
-ten 
-eleven 
-twelve 
-
 Hello
 Amed
 one 
 two three 
 brand new code
+this new code 
+add new things 
