@@ -15,3 +15,7 @@ Six
  Seven 
 Eight 
 Nine 
+ten 
+eleven 
+twelve 
+
