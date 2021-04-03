@@ -13,11 +13,7 @@ beritan came here
 tlilililii
 heellloooo
 ;;
-four
-five
-five.five
-six 
-aksdajdsadadgit gt
+tennnn
 
 this is new code
 beritan was here 
