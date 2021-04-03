@@ -10,13 +10,10 @@ three
 
 brand new code
 beritan came here
-tlilililii
 
-four
-five
-five.five
-six 
-aksdajdsadadgit gt
+tennnn
+eleven
+twenty
 
 this is new code
 beritan wasss hereeeee
