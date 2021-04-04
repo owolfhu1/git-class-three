@@ -8,12 +8,6 @@ two
 2.5
 three
 
-brand new code
-beritan came here
-tennnn
-eleven
-twenty
-6.5
 
 nine 
 ten
@@ -27,5 +21,6 @@ added something
 write some stuff
 more stuff
 and more
+more
 
 
